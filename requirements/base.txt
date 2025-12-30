@@ -1,0 +1,18 @@
+#Core modules
+chromedriver_binary
+#chromedriver_installer
+
+robotframework==2.8.7
+robotframework-selenium2library==1.7.4
+selenium==2.53.2
+#selenium==3.0.2
+browsermob-proxy
+#browsermob-proxy==0.7.1
+
+
+#Code Standards
+coverage==3.7.1
+flake8==3.0.0
+mock==2.0.0
+nose==1.3.7
+pylint==1.6.4
