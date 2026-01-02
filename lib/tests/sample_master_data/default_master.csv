@@ -1,0 +1,9 @@
+URL,CALLS,DATA,STATUS,,
+http://www.bmo.com,https://smetrics.bmo.com/b/ss/,D:D=,200,,
+,,ce:UTF-8,,,
+,,D:D=,,,
+,https://4227502.fls.doubleclick.net,,200,request:url,src=4227502;type=bmoge238;cat=bmoco260
+http://www.bmo.com/main/personal/credit-cards/bmo-airmiles-mastercard,https://smetrics.bmo.com/b/ss/,c2:BMO:PERS,200,,
+,,pageName:BMO:PERS:CC:BMO AIR MILES MasterCard,,,
+,https://4227502.fls.doubleclick.net,,200,request:url,src=4227502;type=mctop053;cat=mc-no683
+,,,,response:headersSize,567
